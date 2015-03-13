@@ -1,4 +1,4 @@
-# Runes #
+<img src="https://raw.githubusercontent.com/thoughtbot/Runes/gh-pages/Logo.png" width="200" />
 
 Indecipherable symbols that some people claim have actual meaning.
 
